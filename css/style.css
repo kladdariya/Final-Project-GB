@@ -318,7 +318,7 @@
             .price__card {
                 display: flex;
                 justify-content: space-between;
-                overflow-x: scroll;
+                overflow-x: auto;
                 gap: 80px;
             }
             
